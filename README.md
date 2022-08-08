@@ -24,7 +24,7 @@ node app.js
 npm run serve
 ```
 
-### 项目发布
+## 项目发布
 ```
 npm run build
 ```
@@ -44,3 +44,32 @@ npm run build
 - 搜索页面（搜索历史/跳转自动搜索/搜索结果播放）
 - 左边侧边栏
 
+### 首页
+
+![Image](https://github.com/FUMING-ZONG/music-demo/blob/main/static/%E9%A6%96%E9%A1%B5.png?raw=true)
+
+### 侧边栏
+
+![Image](https://github.com/FUMING-ZONG/music-demo/blob/main/static/%E4%BE%A7%E8%BE%B9%E6%A0%8F.png?raw=true)
+
+### 搜索界面
+
+![Image](https://github.com/FUMING-ZONG/music-demo/blob/main/static/%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2_2.png?raw=true)
+
+### 歌单详情界面
+
+![Image](https://github.com/FUMING-ZONG/music-demo/blob/main/static/%E6%AD%8C%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5.png?raw=true)
+
+### 歌曲详情页
+
+![Image](https://github.com/FUMING-ZONG/music-demo/blob/main/static/%E6%AD%8C%E6%9B%B2%E8%AF%A6%E6%83%85%E9%A1%B5_1.png?raw=true)
+
+![Image](https://github.com/FUMING-ZONG/music-demo/blob/main/static/%E6%AD%8C%E6%9B%B2%E8%AF%A6%E6%83%85%E9%A1%B5_2.png?raw=true)
+
+### 登录界面
+
+![Image](https://github.com/FUMING-ZONG/music-demo/blob/main/static/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png?raw=true)
+
+### 个人界面
+
+![Image](https://github.com/FUMING-ZONG/music-demo/blob/main/static/%E4%B8%AA%E4%BA%BA%E9%A1%B5%E9%9D%A2.png?raw=true)
